@@ -1,5 +1,5 @@
-import "./server.js"
-import { configDotenv } from "dotenv"
+import './server.js';
+import { configDotenv } from 'dotenv';
 
-configDotenv()
+configDotenv();
 
